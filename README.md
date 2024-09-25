@@ -3,6 +3,8 @@ Este repositório é dedicado ao terceiro episódio da tarefa "Hora de Codar!". 
 
 # OBS: Em breve pretendo fazer um remake deste episódio.
 
+---
+
 ## Exercícios
 
 ### 1. Divisão com Segundo Valor Positivo
@@ -92,3 +94,5 @@ O programa lê 10 valores e conta quantos estão dentro do intervalo de 24 a 42 
 
 ## Autor
 Este projeto foi desenvolvido como parte de exercícios de prática em programação, proposto pelo Professor Gabriel.
+
+---
